@@ -1,0 +1,4 @@
+Mike is friend
+alex is enemy
+john is friend
+alan is enemy

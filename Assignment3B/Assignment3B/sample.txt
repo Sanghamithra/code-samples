@@ -1,0 +1,9 @@
+Lin, Frank         saving   50
+
+Smith,Joe Jr.   checking           100
+
+Woods,Tiger    saving   70
+
+Bush, George W.           checking           1000
+
+Ninja , Chuma   checking           300
